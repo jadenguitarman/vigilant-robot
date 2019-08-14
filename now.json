@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "barebone-serverless-api-zeit-now",
+    "name": "vigilant-robot",
     "builds": [
         {
 			"src": "*.py", 
